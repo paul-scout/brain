@@ -21,11 +21,17 @@
 
 ## Ansprechpartner
 
+### Martin Ritter — Geschäftsführender Gesellschafter
+| Feld | Info |
+|------|------|
+| **Position** | Geschäftsführender Gesellschafter |
+| **LinkedIn** | linkedin.com/in/martin-ritter-webneo |
+| **Telefon** | +49 351 440044 22 |
+
 ### Recruiting / HR
 | Feld | Info |
 |------|------|
 | **E-Mail** | jobs@webneo.de |
-| **Telefon** | Nicht öffentlich |
 | **LinkedIn** | linkedin.com/company/webneo-gmbh |
 
 > ⚠️ Kein namentlicher HR-Kontakt identifiziert. jobs@webneo.de ist der Recruiting-Kanal.

@@ -81,8 +81,11 @@ Jost
 
 ---
 
+## Recherche-Ergebnis (2026-04-25)
+
+> ⚠️ Kein namentlicher HR-Kontakt gefunden. Team-Seite ist JS-gerendert (kann nicht ausgelesen werden). Lösung: Über LinkedIn Company Page direkt nach HR-Person suchen.
+
 ## Nächste Schritte
 
-- [ ] Namentlichen HR/Recruiting-Kontakt auf LinkedIn finden
-- [ ] Karriere-Seite besuchen für spezifische Ansprechpartner
+- [ ] LinkedIn Company Page: linkedin.com/company/elbkapitaene — dort HR/Recruiting Person finden
 - [ ] E-Mail rausschicken an info@elbkapitaene.de

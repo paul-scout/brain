@@ -1,6 +1,6 @@
 # elbkapitäne — Kontaktdaten
 
-**Status:** ⚠️ Teilweise identifiziert
+**Status:** ✅ Kontakt identifiziert
 **Letzte Aktualisierung:** 2026-04-25
 
 ---
@@ -9,27 +9,27 @@
 
 | Feld | Info |
 |------|------|
-| **Name** | elbkapitäne GmbH |
+| **Name** | elbkapitäne GmbH & Co. KG |
 | **Website** | https://www.elbkapitaene.de |
 | **Standort** | Hamburg |
 | **Fokus** | Digitalagentur — Strategie, Design, E-Commerce, PIM/DAM |
 | **Score** | 80 |
 | **Offene Positionen** | PM Digital, Senior PM, Teamlead PM, Technical PM |
-| **Größe** | ca. 30-50 (geschätzt) |
+| **Größe** | ~30 Mitarbeitende |
 | **Tech-Stack** | Pimcore, Storyblok, TYPO3, Magnolia, Shopware, Shopify |
 
 ---
 
 ## Ansprechpartner
 
-### Recruiting / HR
+### Carina Schillag — People & Culture Lead ⭐
 | Feld | Info |
 |------|------|
-| **E-Mail** | info@elbkapitaene.de (allgemein) |
-| **Telefon** | Nicht öffentlich |
-| **LinkedIn** | linkedin.com/company/elbkapitaene |
+| **Position** | People & Culture Lead / Personalleitung |
+| **LinkedIn** | linkedin.com/in/carina-schillag (unverifiziert) |
+| **E-Mail** | info@elbkapitaene.de (allgemein, kein direkter HR-Link) |
 
-> ⚠️ Kein namentlicher HR-Kontakt identifiziert. info@ ist der allgemeine Kontakt.
+> ✅ **Gefunden via Kununu + Tavily-Suche!** Carina ist seit ~2024 People & Culture Lead bei elbkapitäne. Zitat: *"Daher übernimmt Carina ab nun bei uns die Verantwortung für den Bereich People & Culture."*
 
 ---
 
@@ -42,6 +42,34 @@
 
 ---
 
+## LinkedIn Connection-Anfrage
+
+```
+Hi Carina, ich bin Jost — PM Freelancer mit 21 Jahren 
+Agentur-Erfahrung. Ich beziehe mich auf die offenen 
+Projektmanager-Stellen bei elbkapitäne.
+```
+
+## LinkedIn DM (nach Connection)
+
+```
+Hi Carina,
+
+danke fürs Annnehmen! Ich bin Jost — PM Freelancer mit 
+21 Jahren Agentur-Erfahrung.
+
+Ich beziehe mich auf die elbkapitäne Projektmanager-Stellen.
+Falls ihr kurzfristig einen Einwechselspieler braucht,
+bevor die Stellen final besetzt sind: ich könnte eine Option sein.
+
+Keine Festanstellung — aber erfahren, sofort verfügbar.
+
+Hast du 15 Minuten für ein kurzes Gespräch?
+
+Viele Grüße
+Jost
+```
+
 ## E-Mail für Outreach
 
 ```
@@ -51,7 +79,7 @@ Betreff: Einwechselspieler für elbkapitäne Projektmanager-Stellen
 
 ---
 
-## Outreach-Text
+## E-Mail-Text
 
 ```
 Hi,
@@ -81,11 +109,9 @@ Jost
 
 ---
 
-## Recherche-Ergebnis (2026-04-25)
-
-> ⚠️ Kein namentlicher HR-Kontakt gefunden. Team-Seite ist JS-gerendert (kann nicht ausgelesen werden). Lösung: Über LinkedIn Company Page direkt nach HR-Person suchen.
-
 ## Nächste Schritte
 
-- [ ] LinkedIn Company Page: linkedin.com/company/elbkapitaene — dort HR/Recruiting Person finden
-- [ ] E-Mail rausschicken an info@elbkapitaene.de
+- [x] Carina Schillag als People & Culture Lead identifiziert ✅
+- [ ] LinkedIn-Profil bestätigen (Name + aktuelle Position)
+- [ ] LinkedIn Connection-Anfrage rausschicken
+- [ ] E-Mail rausschicken

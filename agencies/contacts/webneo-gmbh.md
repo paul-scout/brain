@@ -1,3 +1,11 @@
+---
+title: "Webneo GmbH — Kontaktdaten"
+created: 2026-04-25
+updated: 2026-04-25
+tags: [agency, outreach, dresden, pm, hr]
+source: web-research
+---
+
 # Webneo GmbH — Kontaktdaten
 
 **Status:** ⚠️ Teilweise identifiziert

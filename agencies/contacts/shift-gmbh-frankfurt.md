@@ -1,3 +1,11 @@
+---
+title: "shift GmbH — Kontaktdaten"
+created: 2026-04-25
+updated: 2026-04-25
+tags: [agency, outreach, frankfurt, pm, hr]
+source: web-research
+---
+
 # shift GmbH — Kontaktdaten
 
 **Status:** ✅ Bester Kontakt identifiziert

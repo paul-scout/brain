@@ -1,3 +1,11 @@
+---
+title: "711media websolutions GmbH — Kontaktdaten"
+created: 2026-04-25
+updated: 2026-04-25
+tags: [agency, outreach, stuttgart, pm]
+source: web-research
+---
+
 # 711media websolutions GmbH — Kontaktdaten
 
 **Status:** ✅ Kontakt identifiziert

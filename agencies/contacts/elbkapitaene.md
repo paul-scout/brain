@@ -1,3 +1,11 @@
+---
+title: "elbkapitäne — Kontaktdaten"
+created: 2026-04-25
+updated: 2026-04-25
+tags: [agency, outreach, hamburg, pm, hr]
+source: web-research
+---
+
 # elbkapitäne — Kontaktdaten
 
 **Status:** ✅ Kontakt identifiziert

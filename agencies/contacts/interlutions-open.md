@@ -1,3 +1,11 @@
+---
+title: "OPEN Digitalgruppe (Interlutions) — Kontaktdaten"
+created: 2026-04-25
+updated: 2026-04-25
+tags: [agency, outreach, köln, pm, hr]
+source: web-research
+---
+
 # OPEN Digitalgruppe (Interlutions) — Kontaktdaten
 
 **Status:** ⚠️ Teilweise identifiziert

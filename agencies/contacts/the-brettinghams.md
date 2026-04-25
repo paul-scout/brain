@@ -1,3 +1,11 @@
+---
+title: "THE BRETTINGHAMS — Kontaktdaten"
+created: 2026-04-25
+updated: 2026-04-25
+tags: [agency, outreach, berlin, pm, hr]
+source: web-research
+---
+
 # THE BRETTINGHAMS — Kontaktdaten
 
 **Status:** ⚠️ Eingeschränkt — Website nicht erreichbar

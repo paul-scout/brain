@@ -34,6 +34,23 @@ Jost positioniert sich als temporärer Unterstützer für Agenturen, die PM/PO/S
 | agencies | 232 | Stammdaten |
 | contacts | 106 | Ansprechpartner (aber meist GF, kein HR) |
 | job_postings | 1086 | Alle Jobs |
+| freelance_portal_jobs | 4+ | Jobs von freelancermap.de (wachsende Tabelle) |
+
+---
+
+## Freelance-Portale
+
+### freelancermap.de (aktiv)
+- **Methode:** POST /projekte mit `q=<suchbegriff>` (GET ?query= gibt nur 3 Vorschau)
+- **Selektor:** `.project-card` mit `.mg-b-display-m` (Titel index 1, Company index 0)
+- **Suchbegriffe:** projektmanager, product owner, scrum master, agile coach, digital transformation, senior projektmanager, it projektleiter
+- **Portal-Jobs:** Werden in `freelance_portal_jobs` gespeichert, täglich aktualisiert
+- **Export:** `python scripts/export_portal_jobs.py` -> Markdown für Outreach-Datei
+- **Status:** Laufend seit 2026-04-27
+
+### freelancer.de (inaktiv)
+- Braucht JS-Login, keine öffentlichen Job-Daten ohne Auth
+- Playwright-Ansatz möglich, aber niedrige Priorität
 
 ---
 
@@ -41,12 +58,17 @@ Jost positioniert sich als temporärer Unterstützer für Agenturen, die PM/PO/S
 
 ### Morgen-Routine (10:00 Uhr, Cron)
 
-1. `auto_scan.py` — Career Pages + Job Board Scan (LinkedIn)
-2. `daily_actions.py` — Zusammenfassung
-3. PM/PO/Scrum Master Jobs filtern (kein Freelance)
-4. HR Kontakte recherchieren (LinkedIn + Web)
-5. Outreach-Texte im Jost-Stil generieren
-6. Speichern in `~/brain/agencies/outreach-YYYY-MM-DD.md`
+1. `auto_scan.py`
+   - Step 1: Career Pages Scan
+   - Step 2: Job Board Scan (LinkedIn)
+   - Step 3: Freelance Portal Scan (freelancermap.de, neu seit 2026-04-27)
+   - Step 4: Staleness Check
+   - Step 5: Score Update
+2. `daily_actions.py` — Zusammenfassung (inkl. Portal-Jobs)
+3. `export_portal_jobs.py` — Portal-Jobs als Markdown exportieren
+4. PM/PO/Scrum Master Jobs filtern
+5. HR Kontakte recherchieren
+6. Outreach-Texte generieren -> `~/brain/agencies/outreach-YYYY-MM-DD.md`
 
 ### Job-Cluster (aus DB)
 
@@ -64,6 +86,7 @@ Jost positioniert sich als temporärer Unterstützer für Agenturen, die PM/PO/S
 - [ ] Jost-Stil Text-Training (Writing Skill mail fehlt noch)
 - [ ] Agentur-Repo vom Download-Ordner in stabile Location verschieben
 - [ ] Outreach-Texte Review-Prozess definieren (Chat vs. File vs. Email)
+- [x] Freelancermap.de Integration (läuft seit 2026-04-27)
 
 ---
 
@@ -86,3 +109,4 @@ Jost positioniert sich als temporärer Unterstützer für Agenturen, die PM/PO/S
 
 - **2026-04-20:** Pipeline entdeckt, Setup begonnen, Morgen-Cron eingerichtet
 - **2026-04-20:** 232 Agenturen, 25 PM/PO/Agile Jobs identifiziert
+- **2026-04-27:** Freelancermap.de Integration gebaut: POST-Suche, 4 PM-Jobs gefunden (MainHeads, Etengo AG, YER, iBSC), in auto_scan Step 3 integriert

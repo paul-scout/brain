@@ -23,7 +23,7 @@ Jost positioniert sich als temporärer Unterstützer für Agenturen, die PM/PO/S
 
 ## Setup
 
-**Repo:** `~/Downloads/agency-pipeline/` (Download von Jost, 2026-04-20)
+**Repo:** `~/agency-pipeline/` (Git: github.com/Jost17/agency-pipeline)
 **Stack:** Python 3.12 + uv, SQLite, httpx, BeautifulSoup, Playwright, python-jobspy
 **Dashboard:** Port 8050 (`scripts/serve_dashboard.py`)
 

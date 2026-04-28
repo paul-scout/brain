@@ -95,13 +95,36 @@ Jost positioniert sich als temporärer Unterstützer für Agenturen, die PM/PO/S
 - Die DB hat mostly Geschäftsführer-Kontakte — HR/Recruiting Kontakte fehlen
 - Agenturen mit aktuellen Jobs: shift (Frankfurt), wiethe, e-pixler, arboro, etc.
 - Job-Datum tracken um "aktive" vs "expired" zu unterscheiden
+- freelancer.de ist stark auf indische/Low-Budget-Projekte ausgelegt — für Jost nicht ideal
+- shift.agency ist die richtige Domain (nicht shift.ag)
+- Freelancermap: 6 Jobs in den letzten 7 Tagen (iBSC, Etengo AG, YER, MainHeads + 2 neue)
 
 ---
 
-## See Also
+## HR Kontakte (Stand 2026-04-27)
 
-- `~/brain/agencies/` — Outreach-Texte pro Tag
-- `~/brain/projects/agency-pipeline/contacts/` — Erforschte Kontakte (future)
+| Agentur | Kontakt | LinkedIn | Rolle |
+|---------|---------|----------|-------|
+| shift | Larissa Muck | ja | Recruiting |
+| Interlutions/OPEN | Eva Koka | — | HR Business Partner |
+| elbkapitäne | Carina Schillag | ja | People & Culture |
+| valantic | Sarah Jagenow | ja | Talent Acquisition |
+| valantic | Melanie W. | ja | HR Manager Germany |
+| wiethe | Janine Kardinahl | ja | Recruiting/Empfang |
+| Webneo | — | — | jobs@webneo.de |
+
+**Quelle:** `~/brain/agencies/hr-contacts-2026-04-27.md`
+
+---
+
+## Offene Tasks
+
+- [ ] freelancer.de Scraper (Playwright, aber Seitenstruktur nicht ideal für Josts Profil)
+- [ ] Jost-Stil Text-Training (Writing Skill mail fehlt noch)
+- [ ] Agentur-Repo in stabile Location verschieben
+- [ ] Outreach-Texte Review-Prozess (Review-Dateien statt Auto-Send) → `outreach-texts-review-YYYY-MM-DD.md`
+- [x] Freelancermap.de Integration (läuft seit 2026-04-27, in auto_scan Step 3)
+- [x] HR Kontakte für Top-Agenturen (5 neue Kontakte am 27.04)
 
 ---
 
@@ -109,4 +132,12 @@ Jost positioniert sich als temporärer Unterstützer für Agenturen, die PM/PO/S
 
 - **2026-04-20:** Pipeline entdeckt, Setup begonnen, Morgen-Cron eingerichtet
 - **2026-04-20:** 232 Agenturen, 25 PM/PO/Agile Jobs identifiziert
-- **2026-04-27:** Freelancermap.de Integration gebaut: POST-Suche, 4 PM-Jobs gefunden (MainHeads, Etengo AG, YER, iBSC), in auto_scan Step 3 integriert
+- **2026-04-27:** Freelancermap.de Integration, HR Kontakte recherchiert, Outreach-Texte generiert (Review-Status)
+
+---
+
+## See Also
+
+- `~/brain/agencies/` — Outreach-Texte pro Tag
+- `~/brain/agencies/hr-contacts-YYYY-MM-DD.md` — HR Kontakte
+- `~/brain/agencies/outreach-texts-review-YYYY-MM-DD.md` — Outreach-Texte (Review-Status)

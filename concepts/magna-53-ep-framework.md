@@ -1,3 +1,10 @@
+---
+title: "MAGNA 53 — EP Framework"
+type: note
+created: 2026-05-04
+tags: [trading, earnings-play, swing-trading, ep-workflow, magna53]
+---
+
 # MAGNA 53 — EP Framework
 
 **Source:** Pradeep Bonde (The Elliot Wave Trader)
@@ -16,6 +23,7 @@
 | **A** | Acceleration of Sales | 39%+ Sales Growth für 2 aufeinanderfolgende Quartale |
 | **G** | Gap Up | 4%+ Gap auf 100K+ Volumen (NTRT/MTRT) |
 | **N** | Neglect | Preis seitwärts 1+ Jahr, Volume niedrig, <100 Funds, kaum Analyst Coverage |
+| **A** | A+ Category | M+A+G+N erfüllt = starkes Setup |
 
 ### 53 = 2 Optionals (NICE TO HAVE — Verstärker)
 
@@ -53,31 +61,24 @@
 
 ## Position Sizing Rule
 
-Position-Size proportional zu erfüllten Kriterien — **kein Binary Go/No-Go**.
-
-> Je mehr MAGNA 53 Boxen ticken, desto größer die Size.
+> 2% Risk pro Trade, max 5% Portfolio-Risk gleichzeitig
 
 ---
 
-## Trade Logik / Pipeline Integration
+## Entry Checklist
 
-```
-Gate 1: MarketChameleon → Gap ≥4%, Vol ≥100K
-Gate 2: Zacks (M = EPS Surprise) + Finviz (N, 5, 3)
-Gate 3: CAP Check (MCap < $10B), 10 by 10 (IPO < 10 Jahre)
-```
-
-### Datenquellen
-- **G (Gap):** MarketChameleon
-- **M (EPS Surprise):** Zacks (Earnings ESP)
-- **N (Neglect):** Finviz (<100 Funds, niedrige Analyst Coverage)
-- **5 (Short Ratio):** Finviz (Short Ratio ≥5)
-- **3 (Analyst PT Raises):** Finviz (≥3 Analysten)
-- **CAP (MCap):** Finviz
-- **10 (IPO Age):** Finviz
+- [ ] M = Massive Acceleration (EPS/Sales Surprise)
+- [ ] A = 39%+ Sales Growth (2 Quartale)
+- [ ] G = 4%+ Gap Up on 100K+ Volume
+- [ ] N = Neglect (<100 Funds, seitwärts 1+ Jahr)
+- [ ] CAP 10by10 erfüllt
+- [ ] Short Squeeze (5+ Days) — optional aber verstärkend
+- [ ] 3+ Analyst PT Hikes — optional aber verstärkend
 
 ---
 
-## Tags
+## Related
 
-#trading #earnings-play #swing-trading #ep-workflow #magna53
+→ [[trading-system]] — Übergeordnetes Trading System (Hub)
+→ [[smb-trading-principles]] — Psychology & Habits (Shield-and-Sword, Barbell Method)
+→ [[ipo-growth-trading]] — IPO Growth Framework (CAP 10by10 ist hier hergeleitet)

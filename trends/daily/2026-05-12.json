@@ -1,0 +1,477 @@
+{
+  "date": "2026-05-12",
+  "reddit": {
+    "saas": [
+      {
+        "title": "How to make good Posts",
+        "score": 8,
+        "url": "https://i.redd.it/ma652cmn4vzg1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1t70jft/how_to_make_good_posts/",
+        "author": "Dubinko",
+        "num_comments": 7,
+        "domain": "i.redd.it"
+      },
+      {
+        "title": "End of AI Slop",
+        "score": 288,
+        "url": "https://i.redd.it/cjg83v67ulvg1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1sndwq7/end_of_ai_slop/",
+        "author": "Dubinko",
+        "num_comments": 108,
+        "domain": "i.redd.it"
+      },
+      {
+        "title": "If Tech companies were brutally honest!",
+        "score": 43,
+        "url": "https://i.redd.it/kxejo1cz5r0h1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tbavpn/if_tech_companies_were_brutally_honest/",
+        "author": "RepairOld9423",
+        "num_comments": 10,
+        "domain": "i.redd.it"
+      },
+      {
+        "title": "How do you get your first 10 users who actually pay",
+        "score": 28,
+        "url": "https://www.reddit.com/r/SaaS/comments/1tb3dqp/how_do_you_get_your_first_10_users_who_actually/",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tb3dqp/how_do_you_get_your_first_10_users_who_actually/",
+        "author": "Spirited-Sprinkles53",
+        "num_comments": 76,
+        "domain": "self.SaaS"
+      },
+      {
+        "title": "took me 2 years and 9 failed projects to finally see this",
+        "score": 41,
+        "url": "https://i.redd.it/bc85sfwzuo0h1.png",
+        "permalink": "https://reddit.com/r/SaaS/comments/1taydj9/took_me_2_years_and_9_failed_projects_to_finally/",
+        "author": "DraGSsined",
+        "num_comments": 33,
+        "domain": "i.redd.it"
+      },
+      {
+        "title": "0 to $10k MRR with $50/day in paid ads (full breakdown)",
+        "score": 18,
+        "url": "https://i.redd.it/7gwvq1ry0q0h1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tb4fyt/0_to_10k_mrr_with_50day_in_paid_ads_full_breakdown/",
+        "author": "GoldenWatch-",
+        "num_comments": 5,
+        "domain": "i.redd.it"
+      },
+      {
+        "title": "People making similar SaaS like mine are making good money, but i cant even get one sale.",
+        "score": 74,
+        "url": "https://www.reddit.com/r/SaaS/comments/1tatrh0/people_making_similar_saas_like_mine_are_making/",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tatrh0/people_making_similar_saas_like_mine_are_making/",
+        "author": "Low-Succotash4499",
+        "num_comments": 92,
+        "domain": "self.SaaS"
+      },
+      {
+        "title": "10 days after launching my SaaS, I’m realizing building was the easy part",
+        "score": 11,
+        "url": "https://www.reddit.com/r/SaaS/comments/1tb7v01/10_days_after_launching_my_saas_im_realizing/",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tb7v01/10_days_after_launching_my_saas_im_realizing/",
+        "author": "Little_Strawberry549",
+        "num_comments": 20,
+        "domain": "self.SaaS"
+      }
+    ],
+    "sideproject": [
+      {
+        "title": "As the year wraps up: what’s the project you’re most proud of building and why?",
+        "score": 81,
+        "url": "https://www.reddit.com/r/SideProject/comments/1ppr6gh/as_the_year_wraps_up_whats_the_project_youre_most/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1ppr6gh/as_the_year_wraps_up_whats_the_project_youre_most/",
+        "author": "SheriffRat",
+        "num_comments": 526,
+        "domain": "self.SideProject"
+      },
+      {
+        "title": "Share your ***Not-AI*** projects",
+        "score": 650,
+        "url": "https://www.reddit.com/r/SideProject/comments/1oaq2kx/share_your_notai_projects/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1oaq2kx/share_your_notai_projects/",
+        "author": "MembershipEuphoric38",
+        "num_comments": 1806,
+        "domain": "self.SideProject"
+      },
+      {
+        "title": "Been coding for a decade. Never shipped anything of my own. Until now.",
+        "score": 37,
+        "url": "https://www.reddit.com/r/SideProject/comments/1tb54kf/been_coding_for_a_decade_never_shipped_anything/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1tb54kf/been_coding_for_a_decade_never_shipped_anything/",
+        "author": "DevFlow11",
+        "num_comments": 28,
+        "domain": "self.SideProject"
+      },
+      {
+        "title": "Turns out the adult content industry is a minefield for solo founders.",
+        "score": 40,
+        "url": "https://www.reddit.com/r/SideProject/comments/1tb3g2r/turns_out_the_adult_content_industry_is_a/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1tb3g2r/turns_out_the_adult_content_industry_is_a/",
+        "author": "trafex",
+        "num_comments": 21,
+        "domain": "self.SideProject"
+      },
+      {
+        "title": "I refused to pay for Wispr Flow (voice-to-text) so I spent two weeks rebuilding it. Free, runs locally, macOS only.",
+        "score": 37,
+        "url": "https://www.reddit.com/r/SideProject/comments/1tb22sw/i_refused_to_pay_for_wispr_flow_voicetotext_so_i/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1tb22sw/i_refused_to_pay_for_wispr_flow_voicetotext_so_i/",
+        "author": "EfficientLetter3654",
+        "num_comments": 40,
+        "domain": "self.SideProject"
+      },
+      {
+        "title": "I built an app to find and review public bathrooms — because Google Maps won't tell you if there's toilet paper",
+        "score": 61,
+        "url": "https://v.redd.it/uxf0nqpuio0h1",
+        "permalink": "https://reddit.com/r/SideProject/comments/1tawy0q/i_built_an_app_to_find_and_review_public/",
+        "author": "Psychological_Top607",
+        "num_comments": 26,
+        "domain": "v.redd.it"
+      },
+      {
+        "title": "share ur project here",
+        "score": 11,
+        "url": "https://www.reddit.com/r/SideProject/comments/1tbb1wn/share_ur_project_here/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1tbb1wn/share_ur_project_here/",
+        "author": "Accurate_Surprise747",
+        "num_comments": 44,
+        "domain": "self.SideProject"
+      },
+      {
+        "title": "I built a breast health tracker because my mom died from breast cancer in her 30s",
+        "score": 308,
+        "url": "https://v.redd.it/lji2lr18ql0h1",
+        "permalink": "https://reddit.com/r/SideProject/comments/1talnl6/i_built_a_breast_health_tracker_because_my_mom/",
+        "author": "sixyz1991",
+        "num_comments": 32,
+        "domain": "v.redd.it"
+      }
+    ],
+    "entrepreneur": [
+      {
+        "title": "🎙️ Episode 004: AMA Gabe Galvez (Private Equity) ) | /r/Entrepreneur Podcast",
+        "score": 11,
+        "url": "https://open.spotify.com/episode/0Xcn9LGNtWiFfRcQJNO7Ek?si=y6bIlIchRlenvDoe7QIgjA&amp;t=12&amp;pi=TB4r4WKVT-Kup",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1suucsk/episode_004_ama_gabe_galvez_private_equity/",
+        "author": "FITGuard",
+        "num_comments": 50,
+        "domain": "open.spotify.com"
+      },
+      {
+        "title": "Talent Tuesday: Services and Collabs | May 12, 2026",
+        "score": 14,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tauuk3/talent_tuesday_services_and_collabs_may_12_2026/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tauuk3/talent_tuesday_services_and_collabs_may_12_2026/",
+        "author": "AutoModerator",
+        "num_comments": 29,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "title": "Is it easier to build a business right now or is that just what twitter wants us to believe",
+        "score": 22,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tb4o95/is_it_easier_to_build_a_business_right_now_or_is/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tb4o95/is_it_easier_to_build_a_business_right_now_or_is/",
+        "author": "Healty_potsmoker",
+        "num_comments": 35,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "title": "Is it better to for a company (with low overheads) to position itself in having more customers, or in having a better class of customer?",
+        "score": 23,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1taz4so/is_it_better_to_for_a_company_with_low_overheads/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1taz4so/is_it_better_to_for_a_company_with_low_overheads/",
+        "author": "prankster999",
+        "num_comments": 34,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "title": "Found a real niche niche. Any advice?",
+        "score": 9,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tb5c74/found_a_real_niche_niche_any_advice/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tb5c74/found_a_real_niche_niche_any_advice/",
+        "author": "Starlyns",
+        "num_comments": 22,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "title": "Would you use a dark pschyology, stoicism app?",
+        "score": 4,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tb7tta/would_you_use_a_dark_pschyology_stoicism_app/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tb7tta/would_you_use_a_dark_pschyology_stoicism_app/",
+        "author": "Zorantscales",
+        "num_comments": 10,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "title": "Case Study: Three Website Changes That Improved Our Conversion Rate by 42%",
+        "score": 2,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tbb9ja/case_study_three_website_changes_that_improved/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tbb9ja/case_study_three_website_changes_that_improved/",
+        "author": "ManyInformation8009",
+        "num_comments": 2,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "title": "How to Build a Pitch Deck That Actually Gets Investor Attention: What 590 Reddit Comments Reveal About What Works",
+        "score": 22,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1taihr6/how_to_build_a_pitch_deck_that_actually_gets/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1taihr6/how_to_build_a_pitch_deck_that_actually_gets/",
+        "author": "Melvinak",
+        "num_comments": 16,
+        "domain": "self.Entrepreneur"
+      }
+    ],
+    "microsaas": [
+      {
+        "title": "Big Updates for the Community!",
+        "score": 49,
+        "url": "https://www.reddit.com/r/microsaas/comments/1mcj8kn/big_updates_for_the_community/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1mcj8kn/big_updates_for_the_community/",
+        "author": "iamfra5er",
+        "num_comments": 27,
+        "domain": "self.microsaas"
+      },
+      {
+        "title": "I’ve been doing pentests on a bunch of AI-built SaaS this year (probably ~50 by now), and I keep seeing the same stuff over and over.",
+        "score": 216,
+        "url": "https://www.reddit.com/r/microsaas/comments/1t3hy7q/ive_been_doing_pentests_on_a_bunch_of_aibuilt/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1t3hy7q/ive_been_doing_pentests_on_a_bunch_of_aibuilt/",
+        "author": "Responsible-Sand6733",
+        "num_comments": 65,
+        "domain": "self.microsaas"
+      },
+      {
+        "title": "May I test whatever you're building?",
+        "score": 37,
+        "url": "https://www.reddit.com/r/microsaas/comments/1t3q0tn/may_i_test_whatever_youre_building/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1t3q0tn/may_i_test_whatever_youre_building/",
+        "author": "Embarrassed_Vast_886",
+        "num_comments": 80,
+        "domain": "self.microsaas"
+      },
+      {
+        "title": "Trying to build a micro SaaS for local businesses, stuck on distribution",
+        "score": 29,
+        "url": "https://www.reddit.com/r/microsaas/comments/1t3qzjh/trying_to_build_a_micro_saas_for_local_businesses/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1t3qzjh/trying_to_build_a_micro_saas_for_local_businesses/",
+        "author": "_sreekar_",
+        "num_comments": 52,
+        "domain": "self.microsaas"
+      },
+      {
+        "title": "A boring SaaS that’s quietly making over 3K MRR",
+        "score": 141,
+        "url": "https://v.redd.it/ih3fvcj2f3zg1",
+        "permalink": "https://reddit.com/r/microsaas/comments/1t3d3rc/a_boring_saas_thats_quietly_making_over_3k_mrr/",
+        "author": "Financial-Muffin1101",
+        "num_comments": 44,
+        "domain": "v.redd.it"
+      },
+      {
+        "title": "You're 35,000 feet up. No signal. No WiFi. And you still know exactly where you are. Private &amp; Offline GPS harness.",
+        "score": 18,
+        "url": "https://www.reddit.com/r/microsaas/comments/1t3qt9x/youre_35000_feet_up_no_signal_no_wifi_and_you/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1t3qt9x/youre_35000_feet_up_no_signal_no_wifi_and_you/",
+        "author": "Spirited-Horror9866",
+        "num_comments": 13,
+        "domain": "self.microsaas"
+      },
+      {
+        "title": "Share what you're building",
+        "score": 31,
+        "url": "https://www.reddit.com/r/microsaas/comments/1t3kjsl/share_what_youre_building/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1t3kjsl/share_what_youre_building/",
+        "author": "amacg",
+        "num_comments": 109,
+        "domain": "self.microsaas"
+      },
+      {
+        "title": "Share what you're building serving other MicrosSass founders",
+        "score": 17,
+        "url": "https://www.reddit.com/r/microsaas/comments/1t3nb22/share_what_youre_building_serving_other/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1t3nb22/share_what_youre_building_serving_other/",
+        "author": "primaryipj6",
+        "num_comments": 65,
+        "domain": "self.microsaas"
+      }
+    ],
+    "indiehackers": [
+      {
+        "title": "📣✅New Human Verification System for our subreddit!",
+        "score": 15,
+        "url": "https://v.redd.it/qsmbzw20wl6g1",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1pk2rzb/new_human_verification_system_for_our_subreddit/",
+        "author": "prakhartiwari0",
+        "num_comments": 280,
+        "domain": "v.redd.it"
+      },
+      {
+        "title": "NEW RULES for the IndieHackers subreddit. - Getting the quality back.",
+        "score": 103,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+        "author": "Numerous_Branch5893",
+        "num_comments": 75,
+        "domain": "self.indiehackers"
+      },
+      {
+        "title": "I built a free tool for people who sign up for free trials and trust future-them too much",
+        "score": 5,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tb2u2g/i_built_a_free_tool_for_people_who_sign_up_for/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tb2u2g/i_built_a_free_tool_for_people_who_sign_up_for/",
+        "author": "Finerfings",
+        "num_comments": 36,
+        "domain": "self.indiehackers"
+      },
+      {
+        "title": "If you had 30 days to make $250 from SaaS, what would you build today?",
+        "score": 2,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tb48ra/if_you_had_30_days_to_make_250_from_saas_what/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tb48ra/if_you_had_30_days_to_make_250_from_saas_what/",
+        "author": "tech_guy_91",
+        "num_comments": 27,
+        "domain": "self.indiehackers"
+      },
+      {
+        "title": "Selling Full AI Restaurant SaaS (Source Code + License) – USD $1,000",
+        "score": 8,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tavlo4/selling_full_ai_restaurant_saas_source_code/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tavlo4/selling_full_ai_restaurant_saas_source_code/",
+        "author": "Glittering-Option962",
+        "num_comments": 33,
+        "domain": "self.indiehackers"
+      },
+      {
+        "title": "nobody is optimizing for AI search engines yet. here’s how to show up before everyone else figures it out",
+        "score": 1,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tbboc9/nobody_is_optimizing_for_ai_search_engines_yet/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tbboc9/nobody_is_optimizing_for_ai_search_engines_yet/",
+        "author": "Big-Pepper9305",
+        "num_comments": 6,
+        "domain": "self.indiehackers"
+      },
+      {
+        "title": "seo for solo founders who have no idea what they’re doing. here’s what actually matters",
+        "score": 13,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1taqrji/seo_for_solo_founders_who_have_no_idea_what/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1taqrji/seo_for_solo_founders_who_have_no_idea_what/",
+        "author": "Big-Pepper9305",
+        "num_comments": 43,
+        "domain": "self.indiehackers"
+      },
+      {
+        "title": "20 founding spots claimed — honest breakdown of what actually worked and what flopped",
+        "score": 5,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tauq0n/20_founding_spots_claimed_honest_breakdown_of/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tauq0n/20_founding_spots_claimed_honest_breakdown_of/",
+        "author": "teemu_dev",
+        "num_comments": 35,
+        "domain": "self.indiehackers"
+      }
+    ]
+  },
+  "producthunt": [
+    {
+      "title": "Habitvs",
+      "url": "https://www.producthunt.com/products/habitvs",
+      "published": "2026-05-10T08:00:00-07:00"
+    },
+    {
+      "title": "Free AI SEO Auditor",
+      "url": "https://www.producthunt.com/products/free-ai-seo-auditor",
+      "published": "2026-05-11T18:28:35-07:00"
+    },
+    {
+      "title": "Open Vibe",
+      "url": "https://www.producthunt.com/products/open-vibe",
+      "published": "2026-05-04T06:59:25-07:00"
+    },
+    {
+      "title": "Vexilo",
+      "url": "https://www.producthunt.com/products/vexilo-a-field-guide-to-claude-code",
+      "published": "2026-05-09T07:32:03-07:00"
+    },
+    {
+      "title": "Seer Platform",
+      "url": "https://www.producthunt.com/products/seer-platform",
+      "published": "2026-04-06T23:27:14-07:00"
+    },
+    {
+      "title": "knooth",
+      "url": "https://www.producthunt.com/products/knooth",
+      "published": "2026-05-11T07:28:36-07:00"
+    },
+    {
+      "title": "display.dev",
+      "url": "https://www.producthunt.com/products/display-dev",
+      "published": "2026-05-11T05:29:11-07:00"
+    },
+    {
+      "title": "HeyNews",
+      "url": "https://www.producthunt.com/products/heynews",
+      "published": "2026-05-08T04:06:37-07:00"
+    },
+    {
+      "title": "Auvylo",
+      "url": "https://www.producthunt.com/products/auvylo",
+      "published": "2026-05-10T02:17:30-07:00"
+    },
+    {
+      "title": "ARKAD Wallet",
+      "url": "https://www.producthunt.com/products/arkad-wallet",
+      "published": "2026-04-13T07:09:19-07:00"
+    },
+    {
+      "title": "Hyperswitch Prism",
+      "url": "https://www.producthunt.com/products/hyperswitch-2",
+      "published": "2026-05-09T00:20:21-07:00"
+    },
+    {
+      "title": "Whisper Island by Coddo",
+      "url": "https://www.producthunt.com/products/coddo",
+      "published": "2026-05-11T13:16:09-07:00"
+    },
+    {
+      "title": "Pixcode",
+      "url": "https://www.producthunt.com/products/pixcode",
+      "published": "2026-05-11T01:53:12-07:00"
+    },
+    {
+      "title": "Kelviq",
+      "url": "https://www.producthunt.com/products/kelviq",
+      "published": "2026-05-05T15:39:25-07:00"
+    },
+    {
+      "title": "MY AI Agent",
+      "url": "https://www.producthunt.com/products/my-ai-agent",
+      "published": "2026-05-10T19:04:13-07:00"
+    },
+    {
+      "title": "Jotform Claude App",
+      "url": "https://www.producthunt.com/products/jotform",
+      "published": "2026-05-08T00:44:00-07:00"
+    },
+    {
+      "title": "Prism protocol",
+      "url": "https://www.producthunt.com/products/prism-protocol",
+      "published": "2026-05-11T17:30:24-07:00"
+    },
+    {
+      "title": "Synci",
+      "url": "https://www.producthunt.com/products/synci",
+      "published": "2026-03-29T08:44:23-07:00"
+    },
+    {
+      "title": "EmailTemple",
+      "url": "https://www.producthunt.com/products/emailtemple",
+      "published": "2026-05-11T02:23:19-07:00"
+    },
+    {
+      "title": "Whale Starts",
+      "url": "https://www.producthunt.com/products/whale-starts",
+      "published": "2026-05-11T02:45:29-07:00"
+    }
+  ]
+}

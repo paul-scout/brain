@@ -1,0 +1,637 @@
+{
+  "date": "2026-05-19",
+  "reddit": {
+    "saas": [
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "r/SaaS v2 is Building in Public - month 1",
+        "score": 10,
+        "comments": 10,
+        "url": "https://i.redd.it/4rgzpy90111h1.png",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tcmvc6/rsaas_v2_is_building_in_public_month_1/",
+        "author": "ergonet",
+        "created_utc": 1778731295.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "How to make good Posts",
+        "score": 14,
+        "comments": 16,
+        "url": "https://i.redd.it/ma652cmn4vzg1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1t70jft/how_to_make_good_posts/",
+        "author": "Dubinko",
+        "created_utc": 1778224483.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "Vibe coded my first SaaS",
+        "score": 825,
+        "comments": 167,
+        "url": "https://v.redd.it/6hzsi7lsuz1h1",
+        "permalink": "https://reddit.com/r/SaaS/comments/1th7k71/vibe_coded_my_first_saas/",
+        "author": "Crafty-Panic331",
+        "created_utc": 1779152861.0,
+        "domain": "v.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "How many users did you get from using chatgpt and claude for marketing?I got no one.",
+        "score": 11,
+        "comments": 15,
+        "url": "https://www.reddit.com/r/SaaS/comments/1thcjqi/how_many_users_did_you_get_from_using_chatgpt_and/",
+        "permalink": "https://reddit.com/r/SaaS/comments/1thcjqi/how_many_users_did_you_get_from_using_chatgpt_and/",
+        "author": "ceo___24",
+        "created_utc": 1779166311.0,
+        "domain": "self.SaaS"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "crossed 200k revenue on my dictation app, but honestly most of it was from lifetime deal not MRR",
+        "score": 143,
+        "comments": 46,
+        "url": "https://i.redd.it/lu3gku8qpw1h1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tgohgd/crossed_200k_revenue_on_my_dictation_app_but/",
+        "author": "Sea_Visual9618",
+        "created_utc": 1779114829.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "I know 71 users isn't huge but it feels unreal without marketing",
+        "score": 220,
+        "comments": 138,
+        "url": "https://i.redd.it/ax1gvglclv1h1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tgiuy4/i_know_71_users_isnt_huge_but_it_feels_unreal/",
+        "author": "ThinkingLoud99_",
+        "created_utc": 1779101222.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "It's not much, but my platform just made its first £95",
+        "score": 25,
+        "comments": 20,
+        "url": "https://i.redd.it/zipxvsc53y1h1.jpeg",
+        "permalink": "https://reddit.com/r/SaaS/comments/1tgxmwd/its_not_much_but_my_platform_just_made_its_first/",
+        "author": "clreatradeapp",
+        "created_utc": 1779131421.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "saas",
+        "title": "Builder struggling with marketing. What would you do first?",
+        "score": 3,
+        "comments": 8,
+        "url": "https://www.reddit.com/r/SaaS/comments/1the5q7/builder_struggling_with_marketing_what_would_you/",
+        "permalink": "https://reddit.com/r/SaaS/comments/1the5q7/builder_struggling_with_marketing_what_would_you/",
+        "author": "oleherland",
+        "created_utc": 1779171270.0,
+        "domain": "self.SaaS"
+      }
+    ],
+    "sideproject": [
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "As the year wraps up: what’s the project you’re most proud of building and why?",
+        "score": 87,
+        "comments": 539,
+        "url": "https://www.reddit.com/r/SideProject/comments/1ppr6gh/as_the_year_wraps_up_whats_the_project_youre_most/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1ppr6gh/as_the_year_wraps_up_whats_the_project_youre_most/",
+        "author": "SheriffRat",
+        "created_utc": 1766065529.0,
+        "domain": "self.SideProject"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "Share your ***Not-AI*** projects",
+        "score": 649,
+        "comments": 1806,
+        "url": "https://www.reddit.com/r/SideProject/comments/1oaq2kx/share_your_notai_projects/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1oaq2kx/share_your_notai_projects/",
+        "author": "MembershipEuphoric38",
+        "created_utc": 1760881634.0,
+        "domain": "self.SideProject"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "My wife and I built a fog-of-war walking app because we couldn't stop imagining one — Walksy",
+        "score": 109,
+        "comments": 48,
+        "url": "https://www.reddit.com/r/SideProject/comments/1th0sva/my_wife_and_i_built_a_fogofwar_walking_app/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1th0sva/my_wife_and_i_built_a_fogofwar_walking_app/",
+        "author": "Zakuffy",
+        "created_utc": 1779137384.0,
+        "domain": "self.SideProject"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "i built an invisible notes app for founders to make product demos faster",
+        "score": 12,
+        "comments": 6,
+        "url": "https://v.redd.it/31a4u7cyk02h1",
+        "permalink": "https://reddit.com/r/SideProject/comments/1thaz9g/i_built_an_invisible_notes_app_for_founders_to/",
+        "author": "alreadytherenow",
+        "created_utc": 1779161859.0,
+        "domain": "v.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "I built an app where you journal by talking to Stoic Philosophers - and anyone else!",
+        "score": 9,
+        "comments": 8,
+        "url": "https://www.reddit.com/r/SideProject/comments/1th6mha/i_built_an_app_where_you_journal_by_talking_to/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1th6mha/i_built_an_app_where_you_journal_by_talking_to/",
+        "author": "Harrrararar",
+        "created_utc": 1779150465.0,
+        "domain": "self.SideProject"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "Native English speaker: which of these app names sounds best?",
+        "score": 5,
+        "comments": 12,
+        "url": "https://www.reddit.com/r/SideProject/comments/1thasn4/native_english_speaker_which_of_these_app_names/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1thasn4/native_english_speaker_which_of_these_app_names/",
+        "author": "No_Suggestion_625",
+        "created_utc": 1779161343.0,
+        "domain": "self.SideProject"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "Your contact book hasn't changed since 2008. So I built the upgrade.",
+        "score": 5,
+        "comments": 9,
+        "url": "https://www.reddit.com/r/SideProject/comments/1th7jvj/your_contact_book_hasnt_changed_since_2008_so_i/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1th7jvj/your_contact_book_hasnt_changed_since_2008_so_i/",
+        "author": "minneapolisemily",
+        "created_utc": 1779152838.0,
+        "domain": "self.SideProject"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "sideproject",
+        "title": "Founders and indie hackers — what browser problems slow down your work?",
+        "score": 2,
+        "comments": 2,
+        "url": "https://www.reddit.com/r/SideProject/comments/1thefz1/founders_and_indie_hackers_what_browser_problems/",
+        "permalink": "https://reddit.com/r/SideProject/comments/1thefz1/founders_and_indie_hackers_what_browser_problems/",
+        "author": "Money_Counter6365",
+        "created_utc": 1779172163.0,
+        "domain": "self.SideProject"
+      }
+    ],
+    "entrepreneur": [
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "🎙️ Episode 004: AMA Gabe Galvez (Private Equity) ) | /r/Entrepreneur Podcast",
+        "score": 15,
+        "comments": 58,
+        "url": "https://open.spotify.com/episode/0Xcn9LGNtWiFfRcQJNO7Ek?si=y6bIlIchRlenvDoe7QIgjA&amp;t=12&amp;pi=TB4r4WKVT-Kup",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1suucsk/episode_004_ama_gabe_galvez_private_equity/",
+        "author": "FITGuard",
+        "created_utc": 1777069799.0,
+        "domain": "open.spotify.com"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "Monday mentorship: ask anything | May 18, 2026",
+        "score": 27,
+        "comments": 40,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tgftb6/monday_mentorship_ask_anything_may_18_2026/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tgftb6/monday_mentorship_ask_anything_may_18_2026/",
+        "author": "AutoModerator",
+        "created_utc": 1779091250.0,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "Pivoting",
+        "score": 7,
+        "comments": 8,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1thbnxr/pivoting/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1thbnxr/pivoting/",
+        "author": "Nightman233",
+        "created_utc": 1779163760.0,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "How to answer \"what to build\" question?",
+        "score": 16,
+        "comments": 44,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tgztqx/how_to_answer_what_to_build_question/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tgztqx/how_to_answer_what_to_build_question/",
+        "author": "helk1d",
+        "created_utc": 1779135399.0,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "working on an idea that can fund my research internship",
+        "score": 33,
+        "comments": 92,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tgol8e/working_on_an_idea_that_can_fund_my_research/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tgol8e/working_on_an_idea_that_can_fund_my_research/",
+        "author": "FlashyAverage26",
+        "created_utc": 1779115053.0,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "I’m so done with Shopify/Webflow/Woo for client builds. Anyone found something better?",
+        "score": 26,
+        "comments": 50,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tgiiao/im_so_done_with_shopifywebflowwoo_for_client/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tgiiao/im_so_done_with_shopifywebflowwoo_for_client/",
+        "author": "khalilliouane",
+        "created_utc": 1779100182.0,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "What are you actually paying for when you subscribe to a local business database?",
+        "score": 4,
+        "comments": 25,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tgv0el/what_are_you_actually_paying_for_when_you/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tgv0el/what_are_you_actually_paying_for_when_you/",
+        "author": "Due-Bet115",
+        "created_utc": 1779127162.0,
+        "domain": "self.Entrepreneur"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "entrepreneur",
+        "title": "I'm struggling with the time and motivation to build my agency alone and feel like I need a partner or some help.",
+        "score": 20,
+        "comments": 69,
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1tgfrbz/im_struggling_with_the_time_and_motivation_to/",
+        "permalink": "https://reddit.com/r/Entrepreneur/comments/1tgfrbz/im_struggling_with_the_time_and_motivation_to/",
+        "author": "DigiDynamicsN",
+        "created_utc": 1779091063.0,
+        "domain": "self.Entrepreneur"
+      }
+    ],
+    "microsaas": [
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "Big Updates for the Community!",
+        "score": 49,
+        "comments": 28,
+        "url": "https://www.reddit.com/r/microsaas/comments/1mcj8kn/big_updates_for_the_community/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1mcj8kn/big_updates_for_the_community/",
+        "author": "iamfra5er",
+        "created_utc": 1753813398.0,
+        "domain": "self.microsaas"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "Decent traffic no subscription yet",
+        "score": 2,
+        "comments": 5,
+        "url": "https://i.redd.it/d929maig5y1h1",
+        "permalink": "https://reddit.com/r/microsaas/comments/1tgy5y5/decent_traffic_no_subscription_yet/",
+        "author": "Deep_Log_6624",
+        "created_utc": 1779132198.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "Decent traffic no subscription yet",
+        "score": 0,
+        "comments": 0,
+        "url": "https://i.redd.it/rlvks7yf5y1h1",
+        "permalink": "https://reddit.com/r/microsaas/comments/1tgy5t2/decent_traffic_no_subscription_yet/",
+        "author": "Deep_Log_6624",
+        "created_utc": 1779132193.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "Decent traffic but no subscription yet",
+        "score": 0,
+        "comments": 1,
+        "url": "https://i.redd.it/sxcjx7cd5y1h1",
+        "permalink": "https://reddit.com/r/microsaas/comments/1tgy54b/decent_traffic_but_no_subscription_yet/",
+        "author": "Deep_Log_6624",
+        "created_utc": 1779132168.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "Decent traffic but no subscription yet",
+        "score": 0,
+        "comments": 0,
+        "url": "https://i.redd.it/cywleq0c5y1h1",
+        "permalink": "https://reddit.com/r/microsaas/comments/1tgy4sp/decent_traffic_but_no_subscription_yet/",
+        "author": "Deep_Log_6624",
+        "created_utc": 1779132156.0,
+        "domain": "i.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "I built a web app that puts your entire calendar on a timeline | ~20+ languages now supported &amp; ~40 users in 4 weeks",
+        "score": 29,
+        "comments": 18,
+        "url": "https://www.linecal.com/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1tefjdd/i_built_a_web_app_that_puts_your_entire_calendar/",
+        "author": "dellydoesitpa",
+        "created_utc": 1778895148.0,
+        "domain": "reddit.com"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "$85k/mo selling leads everyone else thought were worthless",
+        "score": 13,
+        "comments": 24,
+        "url": "https://www.reddit.com/r/microsaas/comments/1tdgrpq/85kmo_selling_leads_everyone_else_thought_were/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1tdgrpq/85kmo_selling_leads_everyone_else_thought_were/",
+        "author": "iamfra5er",
+        "created_utc": 1778806097.0,
+        "domain": "self.microsaas"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "microsaas",
+        "title": "$2.7k/mo automating the part of sales everyone hates (but still do manually)",
+        "score": 21,
+        "comments": 31,
+        "url": "https://www.reddit.com/r/microsaas/comments/1tcihju/27kmo_automating_the_part_of_sales_everyone_hates/",
+        "permalink": "https://reddit.com/r/microsaas/comments/1tcihju/27kmo_automating_the_part_of_sales_everyone_hates/",
+        "author": "iamfra5er",
+        "created_utc": 1778719686.0,
+        "domain": "self.microsaas"
+      }
+    ],
+    "indiehackers": [
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "📣✅New Human Verification System for our subreddit!",
+        "score": 16,
+        "comments": 281,
+        "url": "https://v.redd.it/qsmbzw20wl6g1",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1pk2rzb/new_human_verification_system_for_our_subreddit/",
+        "author": "prakhartiwari0",
+        "created_utc": 1765472617.0,
+        "domain": "v.redd.it"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "NEW RULES for the IndieHackers subreddit. - Getting the quality back.",
+        "score": 106,
+        "comments": 75,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1pj44es/new_rules_for_the_indiehackers_subreddit_getting/",
+        "author": "Numerous_Branch5893",
+        "created_utc": 1765377335.0,
+        "domain": "self.indiehackers"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "Product Idea: “HotelLaunch”",
+        "score": 2,
+        "comments": 2,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1theklo/product_idea_hotellaunch/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1theklo/product_idea_hotellaunch/",
+        "author": "Glittering-Option962",
+        "created_utc": 1779172589.0,
+        "domain": "self.indiehackers"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "I kept forgetting who I met after conferences, so I built something to fix it",
+        "score": 14,
+        "comments": 49,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tgrxga/i_kept_forgetting_who_i_met_after_conferences_so/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tgrxga/i_kept_forgetting_who_i_met_after_conferences_so/",
+        "author": "Past-Minimum-6237",
+        "created_utc": 1779121935.0,
+        "domain": "self.indiehackers"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "72 hours after Product Hunt #5. The story continues!",
+        "score": 14,
+        "comments": 52,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tgjf75/72_hours_after_product_hunt_5_the_story_continues/",
+        "author": "Strong-Yesterday-183",
+        "created_utc": 1779102833.0,
+        "domain": "self.indiehackers"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "Transitioning from a builder to a founder mindset",
+        "score": 17,
+        "comments": 52,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tgdg1t/transitioning_from_a_builder_to_a_founder_mindset/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tgdg1t/transitioning_from_a_builder_to_a_founder_mindset/",
+        "author": "TravelingTice",
+        "created_utc": 1779083396.0,
+        "domain": "self.indiehackers"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "Share your indie projects below and is anyone actually paying for it?",
+        "score": 53,
+        "comments": 255,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tfgasg/share_your_indie_projects_below_and_is_anyone/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tfgasg/share_your_indie_projects_below_and_is_anyone/",
+        "author": "solobuilder",
+        "created_utc": 1778995657.0,
+        "domain": "self.indiehackers"
+      },
+      {
+        "platform": "reddit",
+        "subreddit": "indiehackers",
+        "title": "Let’s Connect &amp; Build Something Together",
+        "score": 10,
+        "comments": 24,
+        "url": "https://www.reddit.com/r/indiehackers/comments/1tfl350/lets_connect_build_something_together/",
+        "permalink": "https://reddit.com/r/indiehackers/comments/1tfl350/lets_connect_build_something_together/",
+        "author": "JestonT",
+        "created_utc": 1779011600.0,
+        "domain": "self.indiehackers"
+      }
+    ]
+  },
+  "producthunt": [
+    {
+      "platform": "producthunt",
+      "title": "M1 by Montage",
+      "url": "https://www.producthunt.com/products/montage-3",
+      "summary": "",
+      "published": "2026-05-17T21:05:57-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "SocLeads 3.0",
+      "url": "https://www.producthunt.com/products/socleads",
+      "summary": "",
+      "published": "2026-04-15T06:27:47-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Voiser AI",
+      "url": "https://www.producthunt.com/products/voiser-ai-text-to-speech",
+      "summary": "",
+      "published": "2026-05-17T23:28:32-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Origio",
+      "url": "https://www.producthunt.com/products/origio",
+      "summary": "",
+      "published": "2026-05-03T10:25:18-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Searchad.ai",
+      "url": "https://www.producthunt.com/products/searchad-ai",
+      "summary": "",
+      "published": "2026-05-16T23:59:00-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Shadow",
+      "url": "https://www.producthunt.com/products/shadow-4",
+      "summary": "",
+      "published": "2026-05-08T00:41:32-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "ReactVision Studio",
+      "url": "https://www.producthunt.com/products/reactvision-studio",
+      "summary": "",
+      "published": "2026-05-17T05:40:43-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Agentspan",
+      "url": "https://www.producthunt.com/products/agentspan",
+      "summary": "",
+      "published": "2026-05-14T19:09:00-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "pixserp",
+      "url": "https://www.producthunt.com/products/pixserp",
+      "summary": "",
+      "published": "2026-05-16T05:11:38-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Draft",
+      "url": "https://www.producthunt.com/products/draft-12",
+      "summary": "",
+      "published": "2026-04-29T20:22:16-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Krea 2",
+      "url": "https://www.producthunt.com/products/krea",
+      "summary": "",
+      "published": "2026-05-17T21:49:16-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "AnyFrame",
+      "url": "https://www.producthunt.com/products/anyframe-2",
+      "summary": "",
+      "published": "2026-05-17T23:49:44-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Moody",
+      "url": "https://www.producthunt.com/products/moody-music-synced-album-wallpaper",
+      "summary": "",
+      "published": "2026-05-17T07:31:31-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "LobeHub",
+      "url": "https://www.producthunt.com/products/lobehub",
+      "summary": "",
+      "published": "2026-05-15T02:48:13-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Polarity",
+      "url": "https://www.producthunt.com/products/polarity-2",
+      "summary": "",
+      "published": "2026-05-17T20:56:06-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Triggered Agents by Adaptive",
+      "url": "https://www.producthunt.com/products/triggered-agents-by-adaptive",
+      "summary": "",
+      "published": "2026-04-04T02:50:38-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "QuickRight",
+      "url": "https://www.producthunt.com/products/capture-6",
+      "summary": "",
+      "published": "2026-05-14T23:31:18-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "SizzleAir",
+      "url": "https://www.producthunt.com/products/sizzleair",
+      "summary": "",
+      "published": "2026-05-17T06:10:10-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "LandingHero AI",
+      "url": "https://www.producthunt.com/products/landinghero-ai-2",
+      "summary": "",
+      "published": "2026-04-12T08:46:55-07:00"
+    },
+    {
+      "platform": "producthunt",
+      "title": "Fere AI",
+      "url": "https://www.producthunt.com/products/fere-ai",
+      "summary": "",
+      "published": "2026-04-30T10:44:29-07:00"
+    }
+  ]
+}

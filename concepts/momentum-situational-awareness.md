@@ -1,5 +1,4 @@
 ---
-slug: momentum-situational-awareness
 title: Momentum & Situational Awareness (Kristian Kullamägi)
 tags:
   - trading
